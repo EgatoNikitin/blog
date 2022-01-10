@@ -162,7 +162,7 @@ footer {
     line-height: 20px;
     color: #21243d;
 }
-@media (max-width: 376px) {
+@media (max-width: 376px), (max-width: 396px) {
     header {
         height: 80px;
         justify-content: center;
