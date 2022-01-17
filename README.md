@@ -1,1 +1,1 @@
-# blog
+https://egatonikitin.github.io/blog/
